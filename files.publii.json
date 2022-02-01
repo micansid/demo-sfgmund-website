@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "db95bc8a38e1656eeb47205f39e5cbf3"
+        "md5": "ca92f33ab3bc6139b24a3b619fb9f124"
     },
     {
         "path": "Einzugsermächtigung-SEPA-2015.pdf",
@@ -62,7 +62,7 @@
     {
         "path": "/amp/datenschutzerklaerung.html",
         "type": "file",
-        "md5": "de6821a0177512af385c2c15bb20b0ba"
+        "md5": "dc80c8b9fc22033d5813ef938a5b4de2"
     },
     {
         "path": "/amp/der-verein.html",
@@ -82,7 +82,7 @@
     {
         "path": "/amp/impressum.html",
         "type": "file",
-        "md5": "1504f52f2028d776e6a363383348a86b"
+        "md5": "bef3c09332bc27e83d0d8753a111254e"
     },
     {
         "path": "/amp/index.html",
@@ -157,7 +157,7 @@
     {
         "path": "anmeldung-feierabendlauf.html",
         "type": "file",
-        "md5": "8be55e9242bdd30c1b33fc5216020445"
+        "md5": "ea5267010879453064744682cd71b0dc"
     },
     {
         "path": "assets",
@@ -262,7 +262,7 @@
     {
         "path": "/authors/christian-reiter/index.html",
         "type": "file",
-        "md5": "061eda6a282f1eb9d21da1e501d68e19"
+        "md5": "11e7143a4bac3e6181e4f173dfa9e9a5"
     },
     {
         "path": "authors/maximilian-hahn",
@@ -272,7 +272,7 @@
     {
         "path": "/authors/maximilian-hahn/index.html",
         "type": "file",
-        "md5": "8bcd0e10fd012401bfbf4dc117499b5d"
+        "md5": "6df6809e6080321330b7eb631edfecce"
     },
     {
         "path": "authors/michael-schmid",
@@ -282,47 +282,47 @@
     {
         "path": "/authors/michael-schmid/index.html",
         "type": "file",
-        "md5": "5bf9fda3c776a28152f4baf8dcf78951"
+        "md5": "edd09cc2331aecfedc73a1ecfb33e055"
     },
     {
         "path": "badminton.html",
         "type": "file",
-        "md5": "f5dcdf2e7158f6e9cc1a458432b28963"
+        "md5": "a61a2181ae7b99be4ad856e03894489f"
     },
     {
         "path": "datenschutzerklaerung.html",
         "type": "file",
-        "md5": "84b51b2098d47f10df0747edc5a3881d"
+        "md5": "e4e0f6c6e2e6d342bca98189e444f31f"
     },
     {
         "path": "der-verein.html",
         "type": "file",
-        "md5": "881f153509483cbf6905838978163f18"
+        "md5": "7265297651f02021b7bcb155f64678b2"
     },
     {
         "path": "formulare-zum-download.html",
         "type": "file",
-        "md5": "92c9687b3cb7ec76970d71bdaed2cab1"
+        "md5": "db168effd0b87c3e9099c4ce9e3f09c6"
     },
     {
         "path": "fussball.html",
         "type": "file",
-        "md5": "c35bdbe8e07a18b513f134f47e7936cb"
+        "md5": "283abb945f57e1d7110a44d34abdcb25"
     },
     {
         "path": "impressum.html",
         "type": "file",
-        "md5": "6968ee45761aecdd833bfd4c87d2eb85"
+        "md5": "95603ce3e495460e79abd1285192a668"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "ef303a263782f5134b32a1105500bc03"
+        "md5": "04e5ab44e7b382e01d121244981f15ae"
     },
     {
         "path": "laufen.html",
         "type": "file",
-        "md5": "8b457416e32e8c28982847b967537be2"
+        "md5": "8a6e40c0ff7d49ddf6368e90bbf15452"
     },
     {
         "path": "media",
@@ -490,12 +490,12 @@
         "md5": false
     },
     {
-        "path": "/media/website/index_500x507-2.png",
+        "path": "/media/website/index_1500x500.png",
         "type": "file",
-        "md5": "7ff0fc59f7e4ed86340bef93c3a04bf4"
+        "md5": "1bbad332cca9e08e0a3c6114f05151c5"
     },
     {
-        "path": "/media/website/index_500x507.png",
+        "path": "/media/website/index_500x507-2.png",
         "type": "file",
         "md5": "7ff0fc59f7e4ed86340bef93c3a04bf4"
     },
@@ -508,6 +508,36 @@
         "path": "media/website/responsive",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "/media/website/responsive/index_1500x500-2xl.png",
+        "type": "file",
+        "md5": "0785fc60ad502bc1cfc785fa42008610"
+    },
+    {
+        "path": "/media/website/responsive/index_1500x500-lg.png",
+        "type": "file",
+        "md5": "50b262f5a4c852577d671433430d3462"
+    },
+    {
+        "path": "/media/website/responsive/index_1500x500-md.png",
+        "type": "file",
+        "md5": "529c6e8d3b4b41cdce2ae2acfaaf8be9"
+    },
+    {
+        "path": "/media/website/responsive/index_1500x500-sm.png",
+        "type": "file",
+        "md5": "d97ddc00b4643ee4a74d880d9c10d916"
+    },
+    {
+        "path": "/media/website/responsive/index_1500x500-xl.png",
+        "type": "file",
+        "md5": "5c262732715136d39ad26f1cb8f9dee5"
+    },
+    {
+        "path": "/media/website/responsive/index_1500x500-xs.png",
+        "type": "file",
+        "md5": "bcd169681048555ee69f0e61c6a064fc"
     },
     {
         "path": "/media/website/responsive/index_500x507-2-2xl.png",
@@ -536,36 +566,6 @@
     },
     {
         "path": "/media/website/responsive/index_500x507-2-xs.png",
-        "type": "file",
-        "md5": "92772c4a5b9d513f1aca3375c041afa3"
-    },
-    {
-        "path": "/media/website/responsive/index_500x507-2xl.png",
-        "type": "file",
-        "md5": "88d3a2297a6146ed37094099f9fb8e94"
-    },
-    {
-        "path": "/media/website/responsive/index_500x507-lg.png",
-        "type": "file",
-        "md5": "88d3a2297a6146ed37094099f9fb8e94"
-    },
-    {
-        "path": "/media/website/responsive/index_500x507-md.png",
-        "type": "file",
-        "md5": "88d3a2297a6146ed37094099f9fb8e94"
-    },
-    {
-        "path": "/media/website/responsive/index_500x507-sm.png",
-        "type": "file",
-        "md5": "ab0636a990715339e1549a6c1950d844"
-    },
-    {
-        "path": "/media/website/responsive/index_500x507-xl.png",
-        "type": "file",
-        "md5": "88d3a2297a6146ed37094099f9fb8e94"
-    },
-    {
-        "path": "/media/website/responsive/index_500x507-xs.png",
         "type": "file",
         "md5": "92772c4a5b9d513f1aca3375c041afa3"
     },
@@ -602,7 +602,7 @@
     {
         "path": "neuer-teamware-shop-ist-online.html",
         "type": "file",
-        "md5": "129d27d6e3d7146efbdfd27120cf0a39"
+        "md5": "b91b58c9be354d06aa02fa59efdd3712"
     },
     {
         "path": "robots.txt",
@@ -612,22 +612,22 @@
     {
         "path": "search.html",
         "type": "file",
-        "md5": "58aa40fbeacde25cbf18dc53ebaea574"
+        "md5": "938793fb1e6fa871ccfffc9b2bbe8bea"
     },
     {
         "path": "sparten.html",
         "type": "file",
-        "md5": "5e0b15e3b0c59b57eb0a9306be9359ce"
+        "md5": "4a739fa2995790861f8f36098d97466a"
     },
     {
         "path": "sponsoring-durch-den-club-tegernsee-2.html",
         "type": "file",
-        "md5": "ed3200e04d994e960cd5d024d237ffd7"
+        "md5": "e7a61340707a1da349eef917ef4c9d8c"
     },
     {
         "path": "sponsoring-durch-den-club-tegernsee.html",
         "type": "file",
-        "md5": "0d772864b5c1d244e056b3413ac6a614"
+        "md5": "4a87f82cb3be7bf677b8fc29196b04fc"
     },
     {
         "path": "tags",
@@ -642,12 +642,12 @@
     {
         "path": "/tags/fussball/index.html",
         "type": "file",
-        "md5": "56658ae715829b8bbfa751a9d9a8f28e"
+        "md5": "39c0cdf2b17e88cb66c529e0eeb402e8"
     },
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "e387db3935906e4294fd97763e944eb2"
+        "md5": "baede73d1bd9e4e2dc268bc9eb5f4070"
     },
     {
         "path": "tags/laufen",
@@ -657,7 +657,7 @@
     {
         "path": "/tags/laufen/index.html",
         "type": "file",
-        "md5": "83c3f1a53c2588b413c573a962b43b8b"
+        "md5": "3cddbc29c7ef5893f2c249c36adc1d5f"
     },
     {
         "path": "tags/news",
@@ -667,11 +667,11 @@
     {
         "path": "/tags/news/index.html",
         "type": "file",
-        "md5": "73748e7d2165e4736bbecf0b44422b00"
+        "md5": "59c84eb6d986cfce9cceffcbaf5e688c"
     },
     {
         "path": "tischtennis.html",
         "type": "file",
-        "md5": "1fa9707c2427ecdecd8c42a7673da94b"
+        "md5": "f2bbac97c587eced78d218980bef9ce1"
     }
 ]
