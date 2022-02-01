@@ -10,9 +10,154 @@
         "md5": "c20ed01d4058dccdf023adb2b8d10225"
     },
     {
+        "path": "amp",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/anmeldung-feierabendlauf.html",
+        "type": "file",
+        "md5": "73c745928f576c1486bed415630eb162"
+    },
+    {
+        "path": "amp/authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "amp/authors/christian-reiter",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/authors/christian-reiter/index.html",
+        "type": "file",
+        "md5": "d829fc81dcdb4a17dcafbd36b96b6026"
+    },
+    {
+        "path": "amp/authors/maximilian-hahn",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/authors/maximilian-hahn/index.html",
+        "type": "file",
+        "md5": "f05b82e28cf0a71f424e2c39e49c8793"
+    },
+    {
+        "path": "amp/authors/michael-schmid",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/authors/michael-schmid/index.html",
+        "type": "file",
+        "md5": "c584cdc84dc77399268dd1dac03fed01"
+    },
+    {
+        "path": "/amp/badminton.html",
+        "type": "file",
+        "md5": "0218169e29989f5f2041324a687bc9e3"
+    },
+    {
+        "path": "/amp/datenschutzerklaerung.html",
+        "type": "file",
+        "md5": "de6821a0177512af385c2c15bb20b0ba"
+    },
+    {
+        "path": "/amp/der-verein.html",
+        "type": "file",
+        "md5": "26f1ffb606a2244f6bf9bc9d1ea278e4"
+    },
+    {
+        "path": "/amp/formulare-zum-download.html",
+        "type": "file",
+        "md5": "ca12343bc0df49935675b08e39c265bb"
+    },
+    {
+        "path": "/amp/fussball.html",
+        "type": "file",
+        "md5": "fc5250cf3875d1170e2c982e982c11b2"
+    },
+    {
+        "path": "/amp/impressum.html",
+        "type": "file",
+        "md5": "1504f52f2028d776e6a363383348a86b"
+    },
+    {
+        "path": "/amp/index.html",
+        "type": "file",
+        "md5": "8267bdfb627b4b4cce6b54b160aae492"
+    },
+    {
+        "path": "/amp/laufen.html",
+        "type": "file",
+        "md5": "87cd3ed8ab43f3dc21f7db700c0ad424"
+    },
+    {
+        "path": "/amp/neuer-teamware-shop-ist-online.html",
+        "type": "file",
+        "md5": "f253d69a54e6a8863df1bed497c006ef"
+    },
+    {
+        "path": "/amp/sparten.html",
+        "type": "file",
+        "md5": "489f66f3f8c26d140ab73668048e7ad6"
+    },
+    {
+        "path": "/amp/sponsoring-durch-den-club-tegernsee-2.html",
+        "type": "file",
+        "md5": "345d25ea9d73b384a808be18e4bcc081"
+    },
+    {
+        "path": "/amp/sponsoring-durch-den-club-tegernsee.html",
+        "type": "file",
+        "md5": "986a079353aae02b398cc874bf8e7bca"
+    },
+    {
+        "path": "amp/tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "amp/tags/fussball",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/tags/fussball/index.html",
+        "type": "file",
+        "md5": "2dae936e2b7c94f67466c4a14fbe78c9"
+    },
+    {
+        "path": "amp/tags/laufen",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/tags/laufen/index.html",
+        "type": "file",
+        "md5": "b6e7f7d195899114a78c12a52529e6f8"
+    },
+    {
+        "path": "amp/tags/news",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/tags/news/index.html",
+        "type": "file",
+        "md5": "6ce1467631a16427cf240f42d9db33b7"
+    },
+    {
+        "path": "/amp/tischtennis.html",
+        "type": "file",
+        "md5": "8f874d05d8f1cecf28322415da3f8c6b"
+    },
+    {
         "path": "anmeldung-feierabendlauf.html",
         "type": "file",
-        "md5": "1770371d68e8158ce2c2ff4b062c673e"
+        "md5": "8be55e9242bdd30c1b33fc5216020445"
     },
     {
         "path": "assets",
@@ -142,42 +287,42 @@
     {
         "path": "badminton.html",
         "type": "file",
-        "md5": "b847a92f2fff20021902b911022d74f0"
+        "md5": "f5dcdf2e7158f6e9cc1a458432b28963"
     },
     {
         "path": "datenschutzerklaerung.html",
         "type": "file",
-        "md5": "6b8c58add713eaecd1ac78af5a06b4a4"
+        "md5": "84b51b2098d47f10df0747edc5a3881d"
     },
     {
         "path": "der-verein.html",
         "type": "file",
-        "md5": "55abe622f30b0177e0abeb2c8e546dac"
+        "md5": "881f153509483cbf6905838978163f18"
     },
     {
         "path": "formulare-zum-download.html",
         "type": "file",
-        "md5": "a3c24a2290d1589a3e6b7f64075e1f5f"
+        "md5": "92c9687b3cb7ec76970d71bdaed2cab1"
     },
     {
         "path": "fussball.html",
         "type": "file",
-        "md5": "2aa307526d583fc12b2a991ffc5fe511"
+        "md5": "c35bdbe8e07a18b513f134f47e7936cb"
     },
     {
         "path": "impressum.html",
         "type": "file",
-        "md5": "012ea3ef9eb5b79357dd35f97c513d5b"
+        "md5": "6968ee45761aecdd833bfd4c87d2eb85"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "286b7eb62f94ee025f7908993500dd7c"
+        "md5": "ef303a263782f5134b32a1105500bc03"
     },
     {
         "path": "laufen.html",
         "type": "file",
-        "md5": "1313f47b95ee591a6cdca3ea0d7ef0b9"
+        "md5": "8b457416e32e8c28982847b967537be2"
     },
     {
         "path": "media",
@@ -355,6 +500,11 @@
         "md5": "7ff0fc59f7e4ed86340bef93c3a04bf4"
     },
     {
+        "path": "/media/website/index_59x60.png",
+        "type": "file",
+        "md5": "11e05245d966276b9d7b61ab99c06fc3"
+    },
+    {
         "path": "media/website/responsive",
         "type": "directory",
         "md5": false
@@ -420,9 +570,39 @@
         "md5": "92772c4a5b9d513f1aca3375c041afa3"
     },
     {
+        "path": "/media/website/responsive/index_59x60-2xl.png",
+        "type": "file",
+        "md5": "3ac8591c7d42e4d2b62ec04ab6fbae92"
+    },
+    {
+        "path": "/media/website/responsive/index_59x60-lg.png",
+        "type": "file",
+        "md5": "3ac8591c7d42e4d2b62ec04ab6fbae92"
+    },
+    {
+        "path": "/media/website/responsive/index_59x60-md.png",
+        "type": "file",
+        "md5": "3ac8591c7d42e4d2b62ec04ab6fbae92"
+    },
+    {
+        "path": "/media/website/responsive/index_59x60-sm.png",
+        "type": "file",
+        "md5": "3ac8591c7d42e4d2b62ec04ab6fbae92"
+    },
+    {
+        "path": "/media/website/responsive/index_59x60-xl.png",
+        "type": "file",
+        "md5": "3ac8591c7d42e4d2b62ec04ab6fbae92"
+    },
+    {
+        "path": "/media/website/responsive/index_59x60-xs.png",
+        "type": "file",
+        "md5": "3ac8591c7d42e4d2b62ec04ab6fbae92"
+    },
+    {
         "path": "neuer-teamware-shop-ist-online.html",
         "type": "file",
-        "md5": "29139e384b650c407bb6255c8dbd86a5"
+        "md5": "129d27d6e3d7146efbdfd27120cf0a39"
     },
     {
         "path": "robots.txt",
@@ -437,17 +617,17 @@
     {
         "path": "sparten.html",
         "type": "file",
-        "md5": "69939f823788851e0053297a47f0a69d"
+        "md5": "5e0b15e3b0c59b57eb0a9306be9359ce"
     },
     {
         "path": "sponsoring-durch-den-club-tegernsee-2.html",
         "type": "file",
-        "md5": "cf011220ff404948a3c348097bb158a4"
+        "md5": "ed3200e04d994e960cd5d024d237ffd7"
     },
     {
         "path": "sponsoring-durch-den-club-tegernsee.html",
         "type": "file",
-        "md5": "58da059b50c5c9300c21027a69f434a7"
+        "md5": "0d772864b5c1d244e056b3413ac6a614"
     },
     {
         "path": "tags",
@@ -492,6 +672,6 @@
     {
         "path": "tischtennis.html",
         "type": "file",
-        "md5": "3ff202ee3d408278aef340119cd9e273"
+        "md5": "1fa9707c2427ecdecd8c42a7673da94b"
     }
 ]
