@@ -218,6 +218,11 @@ url = "https://micansid.github.io/demo-sfgmund-website/pages/vorstandschaft.html
 title = "Vorstandschaft"
 
 [[input.files]]
+path = "2022/webhook_test.html"
+url = "https://micansid.github.io/demo-sfgmund-website/2022/webhook_test.html"
+title = "Webhook"
+
+[[input.files]]
 path = "2022/2022-01-04_sponsoring-durch-den-club-tegernsee.html"
 url = "https://micansid.github.io/demo-sfgmund-website/2022/2022-01-04_sponsoring-durch-den-club-tegernsee.html"
 title = "Sponsoring durch den Club Tegernsee"
