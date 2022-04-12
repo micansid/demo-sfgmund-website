@@ -158,6 +158,11 @@ url = "https://micansid.github.io/demo-sfgmund-website/pages/geschaeftsstelle.ht
 title = "Die Geschäftsstelle"
 
 [[input.files]]
+path = "pages/gmunder_junior-hallencup.html"
+url = "https://micansid.github.io/demo-sfgmund-website/pages/gmunder_junior-hallencup.html"
+title = "Gmunder Junior-Hallencup"
+
+[[input.files]]
 path = "pages/home.html"
 url = "https://micansid.github.io/demo-sfgmund-website/pages/home.html"
 title = "Home"
@@ -176,6 +181,11 @@ title = "Judo"
 path = "pages/laufen.html"
 url = "https://micansid.github.io/demo-sfgmund-website/pages/laufen.html"
 title = "Laufen"
+
+[[input.files]]
+path = "pages/lichterfest.html"
+url = "https://micansid.github.io/demo-sfgmund-website/pages/lichterfest.html"
+title = "Lichterfest"
 
 [[input.files]]
 path = "pages/nordisch.html"
