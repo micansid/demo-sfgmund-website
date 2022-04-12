@@ -108,11 +108,6 @@ url = "https://micansid.github.io/demo-sfgmund-website/pages/demo.html"
 title = "Demo"
 
 [[input.files]]
-path = "pages/aufnahmeantrag.html"
-url = "https://micansid.github.io/demo-sfgmund-website/pages/aufnahmeantrag.html"
-title = "Aufnahmeantrag"
-
-[[input.files]]
 path = "pages/badminton.html"
 url = "https://micansid.github.io/demo-sfgmund-website/pages/badminton.html"
 title = "Badminton"
@@ -131,11 +126,6 @@ title = "Chronik von 1899 bis 1999 und bis heute"
 path = "pages/datenschutzerklaerung.html"
 url = "https://micansid.github.io/demo-sfgmund-website/pages/datenschutzerklaerung.html"
 title = "Datenschutzerklärung"
-
-[[input.files]]
-path = "pages/ehrenordnung.html"
-url = "https://micansid.github.io/demo-sfgmund-website/pages/ehrenordnung.html"
-title = "Ehrenordnung"
 
 [[input.files]]
 path = "pages/eisschuetzen.html"
@@ -186,6 +176,11 @@ title = "Laufen"
 path = "pages/lichterfest.html"
 url = "https://micansid.github.io/demo-sfgmund-website/pages/lichterfest.html"
 title = "Lichterfest"
+
+[[input.files]]
+path = "pages/mitglied_werden.html"
+url = "https://micansid.github.io/demo-sfgmund-website/pages/mitglied_werden.html"
+title = "Mitglied werden"
 
 [[input.files]]
 path = "pages/nordisch.html"
