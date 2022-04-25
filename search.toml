@@ -223,8 +223,8 @@ url = "https://micansid.github.io/demo-sfgmund-website/pages/vorstandschaft.html
 title = "Vorstandschaft"
 
 [[input.files]]
-path = "2022/hauptversammlung-am-552022.html"
-url = "https://micansid.github.io/demo-sfgmund-website/2022/hauptversammlung-am-552022.html"
+path = "2022/hauptversammlung_2022.html"
+url = "https://micansid.github.io/demo-sfgmund-website/2022/hauptversammlung_2022.html"
 title = "Hauptversammlung am 5.5.2022"
 
 [[input.files]]
