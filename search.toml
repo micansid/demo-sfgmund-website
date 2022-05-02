@@ -133,6 +133,11 @@ url = "https://micansid.github.io/demo-sfgmund-website/pages/eisschuetzen.html"
 title = "Eisschützen"
 
 [[input.files]]
+path = "pages/events.html"
+url = "https://micansid.github.io/demo-sfgmund-website/pages/events.html"
+title = "Bevorstehende Veranstaltungen"
+
+[[input.files]]
 path = "pages/formulare_zum_download.html"
 url = "https://micansid.github.io/demo-sfgmund-website/pages/formulare_zum_download.html"
 title = "Formulare zum Download"
