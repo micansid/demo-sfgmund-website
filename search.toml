@@ -108,6 +108,11 @@ url = "https://micansid.github.io/demo-sfgmund-website/pages/demo.html"
 title = "Demo"
 
 [[input.files]]
+path = "pages/ausruestung.html"
+url = "https://micansid.github.io/demo-sfgmund-website/pages/ausruestung.html"
+title = "Ausrüstung"
+
+[[input.files]]
 path = "pages/badminton.html"
 url = "https://micansid.github.io/demo-sfgmund-website/pages/badminton.html"
 title = "Badminton"
@@ -128,6 +133,11 @@ url = "https://micansid.github.io/demo-sfgmund-website/pages/datenschutzerklaeru
 title = "Datenschutzerklärung"
 
 [[input.files]]
+path = "pages/downloads.html"
+url = "https://micansid.github.io/demo-sfgmund-website/pages/downloads.html"
+title = "Formulare und Downloads"
+
+[[input.files]]
 path = "pages/eisschuetzen.html"
 url = "https://micansid.github.io/demo-sfgmund-website/pages/eisschuetzen.html"
 title = "Eisschützen"
@@ -136,11 +146,6 @@ title = "Eisschützen"
 path = "pages/events.html"
 url = "https://micansid.github.io/demo-sfgmund-website/pages/events.html"
 title = "Bevorstehende Veranstaltungen"
-
-[[input.files]]
-path = "pages/formulare_zum_download.html"
-url = "https://micansid.github.io/demo-sfgmund-website/pages/formulare_zum_download.html"
-title = "Formulare zum Download"
 
 [[input.files]]
 path = "pages/fussball.html"
@@ -230,6 +235,11 @@ title = "Vorstandschaft"
 [[input.files]]
 path = "2022/hauptversammlung_2022.html"
 url = "https://micansid.github.io/demo-sfgmund-website/2022/hauptversammlung_2022.html"
+title = "Hauptversammlung SF Gmund-Dürnbach - Neue Vorstandschaft gewählt"
+
+[[input.files]]
+path = "2022/einladung_hauptversammlung_2022.html"
+url = "https://micansid.github.io/demo-sfgmund-website/2022/einladung_hauptversammlung_2022.html"
 title = "Hauptversammlung am 5.5.2022"
 
 [[input.files]]
