@@ -103,6 +103,11 @@ url = "https://micansid.github.io/demo-sfgmund-website/pages/fussball_herren.htm
 title = "Herren"
 
 [[input.files]]
+path = "pages/fussball_senioren.html"
+url = "https://micansid.github.io/demo-sfgmund-website/pages/fussball_senioren.html"
+title = "Senioren"
+
+[[input.files]]
 path = "pages/demo.html"
 url = "https://micansid.github.io/demo-sfgmund-website/pages/demo.html"
 title = "Demo"
