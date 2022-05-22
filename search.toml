@@ -253,11 +253,6 @@ url = "https://micansid.github.io/demo-sfgmund-website/2022/2022-01-04_sponsorin
 title = "Sponsoring durch den Club Tegernsee"
 
 [[input.files]]
-path = "2022/sponsoring_durch_den_club_tegernsee.html"
-url = "https://micansid.github.io/demo-sfgmund-website/2022/sponsoring_durch_den_club_tegernsee.html"
-title = "Sponsoring durch den Club Tegernsee"
-
-[[input.files]]
 path = "2021/neuer_teamware-shop_ist_online.html"
 url = "https://micansid.github.io/demo-sfgmund-website/2021/neuer_teamware-shop_ist_online.html"
 title = "Neuer Teamware-Shop ist online"
