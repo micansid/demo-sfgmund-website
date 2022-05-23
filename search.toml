@@ -98,6 +98,11 @@ url = "https://micansid.github.io/demo-sfgmund-website/pages/fussball_herren.htm
 title = "Herren"
 
 [[input.files]]
+path = "pages/125_jahre_sportfreunde_gmund_duernbach.html"
+url = "https://micansid.github.io/demo-sfgmund-website/pages/125_jahre_sportfreunde_gmund_duernbach.html"
+title = "125 Jahre Sportfreunde Gmund-Dürnbach 1899-2024"
+
+[[input.files]]
 path = "pages/fussball_senioren.html"
 url = "https://micansid.github.io/demo-sfgmund-website/pages/fussball_senioren.html"
 title = "Senioren"
