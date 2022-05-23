@@ -58,11 +58,6 @@ url = "https://micansid.github.io/demo-sfgmund-website/pages/fussball_d-jugend_s
 title = "D-Jugend – 2010er und 2009er - SG Tegernseer Tal 2"
 
 [[input.files]]
-path = "pages/tischtennis_herren_6.html"
-url = "https://micansid.github.io/demo-sfgmund-website/pages/tischtennis_herren_6.html"
-title = "Herren 6 - Bezirksklasse C Gruppe 7 Südost-Ost"
-
-[[input.files]]
 path = "pages/fussball_d-jugend_sg3.html"
 url = "https://micansid.github.io/demo-sfgmund-website/pages/fussball_d-jugend_sg3.html"
 title = "D-Jugend – 2010er und 2009er - SG Tegernseer Tal 3"
