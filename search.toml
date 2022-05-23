@@ -93,9 +93,14 @@ url = "https://micansid.github.io/demo-sfgmund-website/pages/fussball_b-jugend_s
 title = "B-Jugend – 2006er und 2005er - SG Tegernseer Tal 1"
 
 [[input.files]]
-path = "pages/fussball_herren.html"
-url = "https://micansid.github.io/demo-sfgmund-website/pages/fussball_herren.html"
-title = "Herren"
+path = "pages/fussball_herren_sg1.html"
+url = "https://micansid.github.io/demo-sfgmund-website/pages/fussball_herren_sg1.html"
+title = "Herren - SG Tegernseer Tal 1"
+
+[[input.files]]
+path = "pages/fussball_herren_sg2.html"
+url = "https://micansid.github.io/demo-sfgmund-website/pages/fussball_herren_sg2.html"
+title = "Herren - SG Tegernseer Tal 2"
 
 [[input.files]]
 path = "pages/125_jahre_sportfreunde_gmund_duernbach.html"
