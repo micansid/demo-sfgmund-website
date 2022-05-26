@@ -183,9 +183,9 @@ url = "https://micansid.github.io/demo-sfgmund-website/pages/impressum.html"
 title = "Impressum"
 
 [[input.files]]
-path = "pages/judo.html"
-url = "https://micansid.github.io/demo-sfgmund-website/pages/judo.html"
-title = "Judo"
+path = "pages/kampfsport.html"
+url = "https://micansid.github.io/demo-sfgmund-website/pages/kampfsport.html"
+title = "Kampfsport"
 
 [[input.files]]
 path = "pages/laufen.html"
