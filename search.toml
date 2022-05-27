@@ -83,11 +83,6 @@ url = "https://micansid.github.io/demo-sfgmund-website/pages/fussball_c-jugend_s
 title = "C-Jugend – 2008er und 2007er - SG Tegernseer Tal 2"
 
 [[input.files]]
-path = "pages/tischtennis_jugend_3.html"
-url = "https://micansid.github.io/demo-sfgmund-website/pages/tischtennis_jugend_3.html"
-title = "Jugend 3 - Bezirksklasse A Gruppe 5 Südost"
-
-[[input.files]]
 path = "pages/fussball_b-jugend_sg1.html"
 url = "https://micansid.github.io/demo-sfgmund-website/pages/fussball_b-jugend_sg1.html"
 title = "B-Jugend – 2006er und 2005er - SG Tegernseer Tal 1"
